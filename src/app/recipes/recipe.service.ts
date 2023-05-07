@@ -21,7 +21,7 @@ export class RecipeService {
     ),
     new Recipe(
       'Fried egg',
-      'Perfectly fried egg placed on wonderfully roasted gplden bread, seasoned just right',
+      'Perfectly fried egg placed on wonderfully roasted golden bread, seasoned just right',
       'https://images.unsplash.com/photo-1562918005-50afb98e5d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80',
       [new Ingredient('Egg', 2), new Ingredient('Pepper', 2), new Ingredient('Salt', 1), new Ingredient('Cilantro', 3), new Ingredient('Bread', 2)]
     )
